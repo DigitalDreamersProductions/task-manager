@@ -1,4 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -17,7 +16,7 @@
     <img src="images/logo.png" alt="Logo" width="250" height="250">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center"></h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -185,8 +184,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+<a href="https://github.com/GaudiestBaker74/task-manager/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GaudiestBaker74/task-manager" alt="contrib.rocks image" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -217,7 +216,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
+<!--
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
@@ -228,21 +227,22 @@ Use this space to list resources you find helpful and would like to give credit 
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+-->
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/GaudiestBaker74/task-manager.svg?style=for-the-badge
+[contributors-url]: https://github.com/GaudiestBaker74/task-manager/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/GaudiestBaker74/task-manager.svg?style=for-the-badge
+[forks-url]: https://github.com/GaudiestBaker74/task-manager/network/members
+[stars-shield]: https://img.shields.io/github/stars/GaudiestBaker74/task-manager.svg?style=for-the-badge
+[stars-url]: https://github.com/GaudiestBaker74/task-manager/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GaudiestBaker74/task-manager.svg?style=for-the-badge
+[issues-url]: https://github.com/GaudiestBaker74/task-manager/issues
+[license-shield]: https://img.shields.io/github/license/GaudiestBaker74/task-manager.svg?style=for-the-badge
+[license-url]: https://github.com/GaudiestBaker74/task-manager/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
